@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Jevita Maria Saldanha</h1>
+    <h1 style="color:pink">Jevita Maria Saldanha</h1>
     <nav>
        <a href="Favourite">one</a>
        <a href="Achievements">two</a>
